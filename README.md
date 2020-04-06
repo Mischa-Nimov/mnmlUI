@@ -1,3 +1,5 @@
+Original Version by Khankas
+
 # mnml UI for Rainmeter
 [![GitHub release](https://img.shields.io/github/release/khanhas/mnmlUI.svg?colorB=97CA00?label=version)](https://github.com/khanhas/mnmlUI/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/khanhas/mnmlUI/total.svg?colorB=97CA00)](https://github.com/khanhas/mnmlUI/releases)  
   
